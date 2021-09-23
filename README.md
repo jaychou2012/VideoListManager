@@ -1,7 +1,7 @@
 # VideoListManager
 VideoListManager
 
-已贡献：[谭东](https://github.com/zuichu/VideoListManager)  贡献共享。
+已贡献：谭东  贡献共享。
 
 
 Based on [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager)
